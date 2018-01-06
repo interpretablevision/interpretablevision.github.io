@@ -63,7 +63,7 @@ a:hover {
 	background: #f7f7f7;
 }
 
-.container_overview {
+.overview {
 	width: 1024px;
 	min-height: 200px;
 	margin: 0 auto; /* top and bottom, right and left */
